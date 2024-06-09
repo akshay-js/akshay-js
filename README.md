@@ -1,6 +1,9 @@
-<h2 align="left">Hi 👋! My name is Akshay and I'm a from India.</h2>
-
-###
+<h2 align="left">Hi 👋! My name is Akshay</h2>
+<ul>
+<li> Machine Learning & Generative AI: Exploring the latest advancements and building intelligent systems.</li>
+<li> JavaScript, React, Node.js: Crafting efficient, scalable, and user-friendly web applications.</li>
+ <li> I enjoy solving complex problems and continuously learning new technologies to stay at the forefront of innovation. Let's connect and collaborate on exciting projects!.</li>
+</ul>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshay-js&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -104,19 +107,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/akshay-js/akshay-js/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akshay-js/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@akshaya.sharma770" alt="Layout with last medium posts"  />
-</div>
 
 ###
